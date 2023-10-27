@@ -23,3 +23,5 @@ Die Arbeit beschäftigt sich insbesondere mit der Frage, welches der beiden Verf
 ## Verwendung der Mathematica-Codes
 
 In diesem Repository finden Sie Mathematica-Codes, die im Rahmen meiner Bachelorarbeit von mir entwickelt wurden. Diese Codes dienen der Umsetzung der beschriebenen Verfahren und ermöglichen es, die numerischen Resultate für die Rosenbrock-Funktion auszuwerten und zu vergleichen.
+
+© 2017 Büsra KARAOGLAN | Technischen Hochschule Mittelhessen
